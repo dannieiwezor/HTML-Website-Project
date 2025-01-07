@@ -31,13 +31,12 @@
          }
          .header-line {
              width: 100%;
-             height: 5px; /* Thickness of the line */
+             height: 2.3px; /* Thickness of the line */
              background-color: black; /* Line color */
-             margin-bottom: 20px; /* Space between the line and "Your Name" */
+             margin-bottom: 22px; /* Space between the line and "Your Name" */
          }
          h1 {
              font-size: 2em;
-             font-weight: bold;
              text-align: left;
          }
          h2 {
