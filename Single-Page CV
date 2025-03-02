@@ -106,8 +106,12 @@
   <section> 
      <h2 style="color:blue;">Across the Internet</h2>
      <p>
-        LinkedIn: <a href="https://Linkedin.com/in/danieliwezor">linkedin.com/in/linkedin</a>,
-        Github: <a href="https://Github.com/dannieiwezor">github.com/github</a>
+<div>
+        LinkedIn: <a href="https://Linkedin.com/in/danieliwezor">linkedin.com/in/linkedin,</a>,
+   </div>    
+<div>
+Github: <a href="https://Github.com/dannieiwezor">github.com/github</a>
+</div>
      </p>
   </section>
 
